@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+*.pdb
+/Integer2Bits/x64
+/.vs
+*.user
+*.filters
+*.vcxproj
+Integer2Bits/0
+Integer2Bits.sln
