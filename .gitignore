@@ -38,3 +38,5 @@
 *.vcxproj
 Integer2Bits/0
 Integer2Bits.sln
+/Integer2Bits/Debug
+/Integer2Bits/Release
