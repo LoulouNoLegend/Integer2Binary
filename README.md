@@ -10,7 +10,7 @@ A python version is also available as a .py file.
     It's the main version.
     
 ### Python version, maintained by ZeyaTsu
-    It may not be updated more than just a rewrite of the v1, eveything depends on him.
+    It may not be updated more than just the rewrite of the v1, eveything depends on him.
     This version is also not available as a program, you can only find the ".py" file in the python directory.
 
 
