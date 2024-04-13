@@ -8,4 +8,5 @@ It's just a small program to convert integers to bits.
   - GUI
   - IPV4 to bits
   - IPV6 to bits
-maybe more in the future
+
+Maybe more in the future...
