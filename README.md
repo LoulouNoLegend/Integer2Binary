@@ -11,6 +11,7 @@ A python version is also available as a .py file.
     
 ### Python version, maintained by ZeyaTsu
     It may not be updated more than just a rewrite of the v1, eveything depends on him.
+    This version is also not available as a program, you can only find the ".py" file in the python directory.
 
 
 ## Next features to add (C++):
