@@ -14,7 +14,13 @@ A python version is also available as a .py file.
     This version is also not available as a program, you can only find the ".py" file in the python directory.
 
 
-## Next features to add (C++):
+## Current features
+ - Decimals to binary
+ - IPV4 to binary
+ - IPV6 to binary
+
+
+## Next features to add (C++)
   - GUI
 
 Maybe more in the future...
