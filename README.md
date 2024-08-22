@@ -7,16 +7,10 @@ A python version is also available as a .py file.
 ![image](https://github.com/LoulouNoLegend/Integer2Bits/assets/40952934/5cd83234-423e-4434-8908-230f62720d9b)
 
 
-## Current features
+## Features
  - Decimals to binary
  - IPV4 to binary
  - IPV6 to binary
-
-
-## Next features to add
-  - GUI
-
-Maybe more in the future...
 
 
 ## Why a Python version?
